@@ -20,6 +20,7 @@ officialsimonia94.wordpress.com##.noskim.marketing-bar
 ! youtube
 youtube.com###guide-links-primary
 youtube.com###guide-links-secondary
+youtube.com##.style-scope.ytd-display-ad-renderer.yt-simple-endpoint
 youtube.com###YtKevlarVisibilityIdentifier
 youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###feed-pyv-container
