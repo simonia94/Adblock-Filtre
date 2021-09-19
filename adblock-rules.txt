@@ -1,4 +1,4 @@
-![Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Title: Blocking filters by Simonia94
 ! Expires: 5 days
 ! Homepage: https://officialsimonia94.wordpress.com/
@@ -15,6 +15,7 @@ temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
 temp-mail.org##.goPremiumBtn.no-ajaxy
 www.ecosia.org##.banner
 dicsord-gift.com
+officialsimonia94.wordpress.com##.noskim.marketing-bar
 
 ! youtube
 youtube.com###guide-links-primary
