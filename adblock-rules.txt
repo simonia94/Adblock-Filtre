@@ -15,7 +15,10 @@ temp-mail.org##.goPremiumBtn.goPremium.btn-outline-dark.tm-btn
 temp-mail.org##.goPremiumBtn.no-ajaxy
 www.ecosia.org##.banner
 dicsord-gift.com
-officialsimonia94.wordpress.com##.noskim.marketing-bar
+wordpress.com##.noskim.marketing-bar
+instastory.net##.adp-underlay
+instastory.net##.adp
+
 
 ! youtube
 youtube.com###guide-links-primary
