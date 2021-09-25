@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+![Adblock Plus 2.0]
 ! Title: Blocking filters by Simonia94
 ! Expires: 5 days
 ! Homepage: https://officialsimonia94.wordpress.com/
@@ -18,7 +18,9 @@ dicsord-gift.com
 wordpress.com##.noskim.marketing-bar
 instastory.net##.adp-underlay
 instastory.net##.adp
-
+cracksurl.com###custom_html-12 > .custom-html-widget.textwidget > p
+cracksurl.com###custom_html-11 > .custom-html-widget.textwidget > p
+cracksurl.com##.custom-html-widget.textwidget > h3
 
 ! youtube
 youtube.com###guide-links-primary
