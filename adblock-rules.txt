@@ -22,6 +22,7 @@ cracksurl.com###custom_html-12 > .custom-html-widget.textwidget > p
 cracksurl.com###custom_html-11 > .custom-html-widget.textwidget > p
 cracksurl.com##.custom-html-widget.textwidget > h3
 1fichier.com##.ct_warn
+1fichier.com##.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front
 
 ! youtube
 youtube.com###guide-links-primary
