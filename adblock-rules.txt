@@ -2,6 +2,7 @@
 ! Title: Blocking filters by Simonia94
 ! Expires: 5 days
 ! Homepage: https://officialsimonia94.wordpress.com/
+! Licence: https://github.com/simonia94/Adblock-Filtre/blob/main/LICENSE
 
 ! Simonia94
 speedtest.one
