@@ -25,6 +25,7 @@ cracksurl.com##.custom-html-widget.textwidget > h3
 1fichier.com##.ct_warn
 1fichier.com##.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front
 mylink1.biz/superoffre3?subid=119056
+www.mediafire.com##.Download-compatibility
 
 ! youtube
 youtube.com###guide-links-primary
