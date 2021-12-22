@@ -1,4 +1,7 @@
-
+<p align="center">
+  <a href="https://discord.io/simonia94">
+    <img src="https://discord.com/widget?id=853681828501127178&theme=dark" alt="Discord Server">
+  </a>
 # Comment installer les filtres sur des bloqueurs de publicité ?
 
 Aller dans les paramètre de votre bloqueur de pub, dans "Listes de Filtres". Appuyer sur importer, coller le lien ci-dessous:<br/>
