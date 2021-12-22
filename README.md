@@ -10,6 +10,9 @@
 <a href="https://discord.io/simonia94">
     <img src="https://discordapp.com/api/guilds/853681828501127178/widget.png?style=shield" alt="Discord Server">
   </a>
+  <a href="https://officialsimonia94.wordpress.com/">
+    <img src="https://img.shields.io/badge/Site-Simonia94-blue?style=flat-square&logo=appveyor">
+  </a>
   </p>
 
 
