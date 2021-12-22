@@ -11,7 +11,7 @@ Ce filtre bloque les pubs et les logiciels malveillants pour donner une navigati
 
 # Comment installer les filtres sur des bloqueurs de publicité ?
 Aller dans les paramètre de votre bloqueur de pub, dans "Listes de Filtres". Appuyer sur importer, coller le lien ci-dessous:<br/>
-https://raw.githubusercontent.com/simonia94/Adblock-Filtre/main/adblock-rules.txt
+- [Filtre Adblock by Simonia94](https://raw.githubusercontent.com/simonia94/Adblock-Filtre/main/adblock-rules.txt)
 
 **Ublock Origin:**
 ![avatar](https://officialsimonia94.files.wordpress.com/2021/09/snipaste_2021-09-19_11-07-02.png)
