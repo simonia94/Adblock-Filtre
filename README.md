@@ -1,9 +1,15 @@
-<p align="center">
-  <a href="https://discord.io/simonia94">
-    <img src="https://discord.com/widget?id=853681828501127178&theme=dark" alt="Discord Server">
-  </a>
-# Comment installer les filtres sur des bloqueurs de publicité ?
+<h1 align="center">
+  <br>
+  <a href="https://officialsimonia94.wordpress.com/"><img src="https://github.com/simonia94/Adblock-Filtre/blob/main/20210804115011.jpg"></a>
+  <br>
+  Blocking filters by Simonia94
+  <br>
+</h1>
 
+# Description du filtre
+Ce filtre bloque les pubs et les logiciels malveillants pour donner une navigation agréable sur internet. Ce filtre adblock qui est basée sur EasyList, ListeFR, Malicious URL Blocklist et modifié par notre équipe en fonction des réclamations des utilisateurs. 
+
+# Comment installer les filtres sur des bloqueurs de publicité ?
 Aller dans les paramètre de votre bloqueur de pub, dans "Listes de Filtres". Appuyer sur importer, coller le lien ci-dessous:<br/>
 https://raw.githubusercontent.com/simonia94/Adblock-Filtre/main/adblock-rules.txt
 
