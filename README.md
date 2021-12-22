@@ -6,6 +6,13 @@
   <br>
 </h1>
 
+<p align="center">
+<a href="https://discord.io/simonia94">
+    <img src="https://discordapp.com/api/guilds/853681828501127178/widget.png?style=shield" alt="Discord Server">
+  </a>
+  </p>
+
+
 # Description du filtre
 Ce filtre bloque les pubs et les logiciels malveillants pour donner une navigation agréable sur internet. Ce filtre adblock qui est basée sur EasyList, ListeFR, Malicious URL Blocklist et modifié par notre équipe en fonction des réclamations des utilisateurs. 
 
