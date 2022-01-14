@@ -2,7 +2,7 @@
   <br>
   <a href="https://officialsimonia94.wordpress.com/"><img src="https://github.com/simonia94/simonia94/blob/main/20210804115011.jpg"></a>
   <br>
-  Blocking filters by Simonia94
+  Simonia94 filters 
   <br>
 </h1>
 
